@@ -9,8 +9,8 @@ Este repositorio contiene la aplicación React con integración a Supabase para 
 3. Configura las variables de entorno en un archivo `.env` en la raíz del proyecto con las siguientes credenciales reales:
 
 ```
-VITE_SUPABASE_URL=https://sicxdiqbahakbjekevfj.supabase.co
-VITE_SUPABASE_ANON_KEY=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InNpY3hkaXFiYWhha2JqZWtldmZqIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NDY1ODY2OTgsImV4cCI6MjA2MjE2MjY5OH0.c427_04fJ5xELq-GJY3WN5YOeYoURB6sHiOBCqIwZVM
+VITE_SUPABASE_URL=https://
+VITE_SUPABASE_ANON_KEY=
 ```
 
 4. Instala las dependencias:
